@@ -1,5 +1,5 @@
 /**
-	Coding beast
+	Codding_beast
 **/
 const dino = Runner.instance_;
 var html_body = document.firstElementChild;
